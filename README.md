@@ -13,8 +13,7 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 <p>
 <img src="https://img.shields.io/badge/SQL-Database-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/--1F6FEB?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/--4C8CBF?style=for-the-badge&logo=trending-up&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Statistics-Data%20Analysis-4C8CBF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
