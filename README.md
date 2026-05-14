@@ -27,11 +27,16 @@ Welcome to my Data Analytics Portfolio.
 - Analyzed sales performance
 - business insights
 
+🔗 Project Link:
+(https://github.com/Ahmed-Ehab251/Tableau-Sales-Dashboard.git)
+
 ## 3. Call Center Analytics Dashboard
 - Designed a dynamic Power BI dashboard for real-time call center performance analysis
 - Evaluated customer experience using satisfaction ratings and response-time metrics
 - Monitored operational KPIs to optimize agent productivity and service quality
 - Generated actionable insights to support data-driven business decisions
+
+
 
 ## 4. Pharmacy Inventory Dashboard
 - Built an interactive Power BI dashboard to analyze pharmacy inventory and stock performance
