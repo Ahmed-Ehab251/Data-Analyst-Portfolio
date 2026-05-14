@@ -8,7 +8,7 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 
 ---
 
-## 🧠 Tech Stack
+## 📊 Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
