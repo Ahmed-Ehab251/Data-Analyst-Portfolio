@@ -11,7 +11,7 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 ## 📊 Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/SQL-Analytics-2E86C1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Query-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
