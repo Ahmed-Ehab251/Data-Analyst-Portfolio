@@ -94,12 +94,19 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 
 ---
 
-## 📬 Contact
+<div align="center">
+  
+## 📬 Contact Me
 
-<p>
-<img src="https://img.shields.io/badge/Email-ahmedehab3728%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</p>
+<a href="https://www.linkedin.com/in/ahmed-ehab-9463a13a5" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedehab3728@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
