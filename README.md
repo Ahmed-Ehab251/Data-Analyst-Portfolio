@@ -8,7 +8,7 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 
 ---
 
-## 📊 Tech Stack
+## 🛠️ Skills & Tools
 
 <p>
 <img src="https://img.shields.io/badge/SQL-Database-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white"/>
