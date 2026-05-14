@@ -1,79 +1,110 @@
-# Ahmed Ehab Data Analytics Portfolio
+<div align="center">
 
-Welcome to my Data Analytics Portfolio.
+<h1>🚀 Ahmed Ehab | Data Analytics Portfolio</h1>
 
-## Skills
-- SQL
-- Python
-- Power BI
-- Excel
-- Tableau
-- Data Visualization
+<p>
+Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analysis, Visualization, SQL, Python, and BI Tools.
+</p>
 
 ---
 
-# Projects
+## 🧠 Tech Stack
 
-## 1. Misuo Analysis Dashboard | Excel
-- Analyzed sales performance using Excel
-- Created interactive dashboard
-- Identified top-selling products
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/Excel-Dashboard-Project.git)
-
-## 2. Sales Dashboard | Tableau
-- Developed an interactive sales dashboard using Tableau
-- Analyzed sales performance
-- business insights
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/Tableau-Sales-Dashboard.git)
-
-## 3. Call Center Analytics Dashboard | Power BI
-- Designed a dynamic Power BI dashboard for real-time call center performance analysis
-- Evaluated customer experience using satisfaction ratings and response-time metrics
-- Monitored operational KPIs to optimize agent productivity and service quality
-- Generated actionable insights to support data-driven business decisions
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/PowerBI-Call-Center-Dashboard.git)
-
-## 4. Pharmacy Inventory Dashboard | Power BI
-- Built an interactive Power BI dashboard to analyze pharmacy inventory and stock performance
-- Monitored key KPIs including inventory value, stock quantity, suppliers, and average unit price
-- Improved inventory tracking and decision-making through data visualization
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/PowerBI-Pharmacy-Inventory-Dashboard.git)
-
-## 5. Superstore Sales Analysis | SQL
-- Performed Exploratory Data Analysis (EDA) using SQL queries  
-- Analyzed sales trends including Sales by City and Sales by Segment  
-- Analyzed customer behavior through Customer Transactions  
-- Extracted key business insights using data querying and aggregation
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/SQL-Project.git)
-
-## 6. Data Salaries Analysis | Python
-- Conducted Exploratory Data Analysis (EDA) using Python and Pandas
-- Explored salary trends, job roles, and experience levels in data-related careers
-- Generated insights through statistical analysis and data exploration
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/Python-Data-Salaries-Analysis.git)
-
-## 7. Cars Data Visualization | Python
-- Created data visualizations using Python to analyze car dataset patterns  
-- Utilized Pandas, Matplotlib.pyplot, and Seaborn for data processing and visualization  
-- Explored relationships between car features such as horsepower, top speed, fuel types, and price
-
-🔗 Project Link:
-(https://github.com/Ahmed-Ehab251/Python-Cars-Data_Visualization.git)
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge"/>
+</p>
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/ahmed-ehab-9463a13a5
-- Email: ahmedehab3728@gmail.com
+## 📊 Projects
+
+</div>
+
+---
+
+## 📌 1. Misuo Analysis Dashboard | Excel
+- Sales performance analysis using Excel  
+- Interactive dashboard creation  
+- Identified top-selling products  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/Excel-Dashboard-Project)
+
+---
+
+## 📌 2. Sales Dashboard | Tableau
+- Built interactive dashboard  
+- Analyzed sales performance  
+- Extracted business insights  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/Tableau-Sales-Dashboard)
+
+---
+
+## 📌 3. Call Center Analytics Dashboard | Power BI
+- Real-time call center KPI tracking  
+- Customer satisfaction analysis  
+- Agent performance monitoring  
+- Data-driven insights for business decisions  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/PowerBI-Call-Center-Dashboard)
+
+---
+
+## 📌 4. Pharmacy Inventory Dashboard | Power BI
+- Inventory performance analysis  
+- Stock & supplier monitoring  
+- KPI-based dashboard for decision making  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/PowerBI-Pharmacy-Inventory-Dashboard)
+
+---
+
+## 📌 5. Superstore Sales Analysis | SQL
+- Exploratory Data Analysis (EDA) using SQL  
+- Sales analysis by city and segment  
+- Customer behavior insights  
+- Aggregation and business insights  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/SQL-Project)
+
+---
+
+## 📌 6. Data Salaries Analysis | Python
+- EDA using Pandas  
+- Salary trends analysis  
+- Job roles insights in data industry  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/Python-Data-Salaries-Analysis)
+
+---
+
+## 📌 7. Cars Data Visualization | Python
+- Data visualization using Python  
+- Analysis of speed, horsepower, fuel types, and price  
+- Insights using Matplotlib & Seaborn  
+
+🔗 [Project Link](https://github.com/Ahmed-Ehab251/Python-Cars-Data_Visualization)
+
+---
+
+## 📬 Contact
+
+<p>
+<img src="https://img.shields.io/badge/Email-ahmedehab3728%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</p>
+
+---
+
+<div align="center">
+
+⭐ Thank you for visiting my Data Analytics Portfolio ⭐
+
+</div>
