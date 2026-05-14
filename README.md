@@ -46,7 +46,7 @@ Welcome to my Data Analytics Portfolio.
 - Explored salary trends, job roles, and experience levels in data-related careers
 - Generated insights through statistical analysis and data exploration
 
-## 7. Cars Dataset Visualization | Python
+## 7. Cars Data Visualization | Python
 - Created data visualizations using Python to analyze car dataset patterns  
 - Utilized Pandas, Matplotlib.pyplot, and Seaborn for data processing and visualization  
 - Explored relationships between car features such as horsepower, top speed, fuel types, and price
