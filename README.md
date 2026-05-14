@@ -17,6 +17,7 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge"/>
 </p>
