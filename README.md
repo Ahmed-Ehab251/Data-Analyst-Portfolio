@@ -36,7 +36,8 @@ Welcome to my Data Analytics Portfolio.
 - Monitored operational KPIs to optimize agent productivity and service quality
 - Generated actionable insights to support data-driven business decisions
 
-
+🔗 Project Link:
+(https://github.com/Ahmed-Ehab251/PowerBI-Call-Center-Dashboard.git)
 
 ## 4. Pharmacy Inventory Dashboard
 - Built an interactive Power BI dashboard to analyze pharmacy inventory and stock performance
