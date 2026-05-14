@@ -19,6 +19,9 @@ Welcome to my Data Analytics Portfolio.
 - Created interactive dashboard
 - Identified top-selling products
 
+🔗 Project Link:
+(https://github.com/Ahmed-Ehab251/Excel-Dashboard-Project.git)
+
 ## 2. Sales Dashboard
 - Developed an interactive sales dashboard using Tableau
 - Analyzed sales performance
