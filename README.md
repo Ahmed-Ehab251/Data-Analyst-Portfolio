@@ -108,9 +108,6 @@ Welcome to my <b>Data Analytics Portfolio</b> showcasing projects in Data Analys
   <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ahmed-Ehab251" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
